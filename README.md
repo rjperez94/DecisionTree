@@ -14,7 +14,7 @@
 
 1. Right click on your `Java Project` --> `Run As` --> `Java Application`
 2. Program will ask for directory of where the text files are
-3. Choose `data/{data-type}` directory
+3. Choose `data/hepa` directory
 4. Program will look for `hepatitis-training.dat`, and `hepatitis-test.dat` inside that chosen folder
 
 ## Notes
