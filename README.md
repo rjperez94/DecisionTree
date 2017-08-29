@@ -19,9 +19,11 @@
 
 ## Notes
 
-You can change the files the program reads/looks for by changing:
-- `private static final String TRAINSET_FILENAME = "hepatitis-training.dat";`
-and
--	`private static final String TESTSET_FILENAME = "hepatitis-test.dat";`
+- You can change the files the program reads/looks for by changing:
+  - `private static final String TRAINSET_FILENAME = "hepatitis-training.dat";`
+  and
+  -	`private static final String TESTSET_FILENAME = "hepatitis-test.dat";`
 
-...to the respective file names in `data/golf` or `data/hepa` directory
+  ...to the respective file names in `data/golf` or `data/hepa` directory
+
+- Click <a href='https://github.com/rjperez94/DecisionTree/blob/master/algorithm.gif'>here</a> for the algorithm used
