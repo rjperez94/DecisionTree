@@ -6,11 +6,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map.Entry;
-
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
-import part2.Instance;
 
 public class DecisionTree {
 	private static JFileChooser fileChooser = new JFileChooser();
